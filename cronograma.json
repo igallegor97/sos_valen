@@ -1,0 +1,1072 @@
+{
+  "meta": {
+    "cargo": "Profesional Asesor",
+    "entidad": "Procuraduría General de la Nación",
+    "inicio": "2026-08-29",
+    "fin": "2026-11-29"
+  },
+  "fases": [
+    {
+      "id": "fase-0",
+      "numero": 0,
+      "nombre": "Arranque",
+      "inicio": "2026-08-29",
+      "fin": "2026-08-30",
+      "resumen": "Dejar montado el sistema antes de empezar contenido.",
+      "eventos": [
+        {
+          "id": "2026-08-29-revisarelplanylosarchivo",
+          "fecha": "2026-08-29",
+          "dia": "Sábado",
+          "titulo": "Revisar el plan y los archivos entregados (banco de preguntas y glosario)",
+          "detalle": null,
+          "herramientas": [],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-08-30-elegirdóndellevareldiari",
+          "fecha": "2026-08-30",
+          "dia": "Domingo",
+          "titulo": "Elegir dónde llevar el diario de errores y marcar en el calendario los puntos de control",
+          "detalle": null,
+          "herramientas": [],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        }
+      ]
+    },
+    {
+      "id": "fase-1",
+      "numero": 1,
+      "nombre": "Curso en vivo: consolidar lo reciente",
+      "inicio": "2026-08-31",
+      "fin": "2026-09-17",
+      "resumen": "Recuperar temas recién dictados que el simulacro no cubrió, en paralelo con las clases que faltan del curso.",
+      "eventos": [
+        {
+          "id": "2026-08-31-catchupderechoprocesaliy",
+          "fecha": "2026-08-31",
+          "dia": "Lunes",
+          "titulo": "Catch-up: Derecho Procesal I y II (resumen + glosario)",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-01-claseenvivofunciónpúblic",
+          "fecha": "2026-09-01",
+          "dia": "Martes",
+          "titulo": "Clase en vivo: Función Pública y Ética del Servidor Público",
+          "detalle": null,
+          "herramientas": [
+            "glosario",
+            "tarjetas"
+          ],
+          "claseEnVivo": true,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-02-catchupderechoshumanosdd",
+          "fecha": "2026-09-02",
+          "dia": "Miércoles",
+          "titulo": "Catch-up: Derechos Humanos (DD.HH.) aplicados a la función pública",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-03-claseenvivoestatutoantic",
+          "fecha": "2026-09-03",
+          "dia": "Jueves",
+          "titulo": "Clase en vivo: Estatuto Anticorrupción",
+          "detalle": null,
+          "herramientas": [
+            "glosario",
+            "tarjetas"
+          ],
+          "claseEnVivo": true,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-04-quizsemanalderechoproces",
+          "fecha": "2026-09-04",
+          "dia": "Viernes",
+          "titulo": "Quiz semanal: Derecho Procesal, DD.HH., Función Pública/Ética, Anticorrupción",
+          "detalle": null,
+          "herramientas": [
+            "quiz"
+          ],
+          "claseEnVivo": false,
+          "tipo": "quiz"
+        },
+        {
+          "id": "2026-09-05-repasoligeroopcionaltarj",
+          "fecha": "2026-09-05",
+          "dia": "Sábado",
+          "titulo": "Repaso ligero opcional (tarjetas vencidas + glosario)",
+          "detalle": null,
+          "herramientas": [
+            "glosario",
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-09-07-claseenvivoservicioalciu",
+          "fecha": "2026-09-07",
+          "dia": "Lunes",
+          "titulo": "Clase en vivo: Servicio al Ciudadano",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": true,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-08-claseenvivofundamentosde",
+          "fecha": "2026-09-08",
+          "dia": "Martes",
+          "titulo": "Clase en vivo: Fundamentos de Derecho Disciplinario",
+          "detalle": null,
+          "herramientas": [
+            "glosario",
+            "tarjetas"
+          ],
+          "claseEnVivo": true,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-09-catchupresponsabilidadex",
+          "fecha": "2026-09-09",
+          "dia": "Miércoles",
+          "titulo": "Catch-up: Responsabilidad extracontractual del Estado + Derecho Disciplinario de la Contratación Estatal",
+          "detalle": null,
+          "herramientas": [
+            "glosario",
+            "ficha"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-10-claseenvivoderechodiscip",
+          "fecha": "2026-09-10",
+          "dia": "Jueves",
+          "titulo": "Clase en vivo: Derecho Disciplinario (cierre del bloque disciplinario completo)",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas"
+          ],
+          "claseEnVivo": true,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-11-claseenvivocomprensiónle",
+          "fecha": "2026-09-11",
+          "dia": "Viernes",
+          "titulo": "Clase en vivo: Comprensión lectora para las pruebas",
+          "detalle": null,
+          "herramientas": [],
+          "claseEnVivo": true,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-12-quizsemanalservicioalciu",
+          "fecha": "2026-09-12",
+          "dia": "Sábado",
+          "titulo": "Quiz semanal: Servicio al Ciudadano + bloque Disciplinario + Resp. Extracontractual",
+          "detalle": null,
+          "herramientas": [
+            "quiz"
+          ],
+          "claseEnVivo": false,
+          "tipo": "quiz"
+        },
+        {
+          "id": "2026-09-14-claseenvivoredaccióndedo",
+          "fecha": "2026-09-14",
+          "dia": "Lunes",
+          "titulo": "Clase en vivo: Redacción de Documentos y ortografía (repaso)",
+          "detalle": null,
+          "herramientas": [],
+          "claseEnVivo": true,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-15-claseenvivoofimáticatuár",
+          "fecha": "2026-09-15",
+          "dia": "Martes",
+          "titulo": "Clase en vivo: Ofimática — tu área más débil del diagnóstico (20%)",
+          "detalle": null,
+          "herramientas": [
+            "ficha"
+          ],
+          "claseEnVivo": true,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-16-repasogeneraldetodalafas",
+          "fecha": "2026-09-16",
+          "dia": "Miércoles",
+          "titulo": "Repaso general de toda la Fase 1 antes del simulacro final del curso",
+          "detalle": null,
+          "herramientas": [
+            "diario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-09-17-claseenvivosimulacrofina",
+          "fecha": "2026-09-17",
+          "dia": "Jueves",
+          "titulo": "Clase en vivo: Simulacro Final del curso — 120 preguntas",
+          "detalle": null,
+          "herramientas": [
+            "simulacro"
+          ],
+          "claseEnVivo": true,
+          "tipo": "simulacro"
+        }
+      ]
+    },
+    {
+      "id": "fase-1b",
+      "numero": 1.5,
+      "nombre": "Cierre del curso en vivo",
+      "inicio": "2026-09-18",
+      "fin": "2026-09-20",
+      "resumen": "Corregir el Simulacro Final del curso e integrarlo al banco de preguntas.",
+      "eventos": [
+        {
+          "id": "2026-09-18-corregirelsimulacrofinal",
+          "fecha": "2026-09-18",
+          "dia": "Viernes",
+          "titulo": "Corregir el Simulacro Final del curso",
+          "detalle": null,
+          "herramientas": [
+            "diario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-09-19-agregarlas120preguntasnu",
+          "fecha": "2026-09-19",
+          "dia": "Sábado",
+          "titulo": "Agregar las 120 preguntas nuevas al banco de preguntas ampliable",
+          "detalle": null,
+          "herramientas": [
+            "simulacro"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-09-20-descansocompleto",
+          "fecha": "2026-09-20",
+          "dia": "Domingo",
+          "titulo": "Descanso completo",
+          "detalle": null,
+          "herramientas": [],
+          "claseEnVivo": false,
+          "tipo": "descanso"
+        }
+      ]
+    },
+    {
+      "id": "fase-2",
+      "numero": 2,
+      "nombre": "Función Pública, Constitución y Derecho Administrativo",
+      "inicio": "2026-09-21",
+      "fin": "2026-10-04",
+      "resumen": "Consolidar los tres temas más grandes del simulacro original, ahora sin la presión del curso en vivo.",
+      "eventos": [
+        {
+          "id": "2026-09-21-funciónpúblicadelegación",
+          "fecha": "2026-09-21",
+          "dia": "Lunes",
+          "titulo": "Función Pública: delegación, desconcentración, descentralización (el eje que más se repite)",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-22-funciónpúblicaresumenpro",
+          "fecha": "2026-09-22",
+          "dia": "Martes",
+          "titulo": "Función Pública: resumen propio + tarjetas del tema",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas",
+            "ficha"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-23-estructuraespecíficadelm",
+          "fecha": "2026-09-23",
+          "dia": "Miércoles",
+          "titulo": "Estructura específica del Ministerio Público / Procuraduría",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-24-repasoespaciadodetarjeta",
+          "fecha": "2026-09-24",
+          "dia": "Jueves",
+          "titulo": "Repaso espaciado de tarjetas + diario de errores",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas",
+            "diario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-09-25-quizsemanalfunciónpúblic",
+          "fecha": "2026-09-25",
+          "dia": "Viernes",
+          "titulo": "Quiz semanal: Función Pública + estructura de la Procuraduría",
+          "detalle": null,
+          "herramientas": [
+            "quiz"
+          ],
+          "claseEnVivo": false,
+          "tipo": "quiz"
+        },
+        {
+          "id": "2026-09-26-repasoligeroopcional",
+          "fecha": "2026-09-26",
+          "dia": "Sábado",
+          "titulo": "Repaso ligero opcional",
+          "detalle": null,
+          "herramientas": [
+            "glosario",
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-09-28-constituciónpolíticaacci",
+          "fecha": "2026-09-28",
+          "dia": "Lunes",
+          "titulo": "Constitución Política: acciones constitucionales y derechos fundamentales (consolidar)",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-29-derechoadministrativocpa",
+          "fecha": "2026-09-29",
+          "dia": "Martes",
+          "titulo": "Derecho Administrativo (CPACA): acto administrativo, notificaciones, recursos",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-09-30-derechoadministrativopro",
+          "fecha": "2026-09-30",
+          "dia": "Miércoles",
+          "titulo": "Derecho Administrativo: procedimiento sancionatorio y conciliación administrativa (temas nuevos)",
+          "detalle": null,
+          "herramientas": [
+            "glosario",
+            "ficha"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-01-repasoespaciadodetarjeta",
+          "fecha": "2026-10-01",
+          "dia": "Jueves",
+          "titulo": "Repaso espaciado de tarjetas + diario de errores",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas",
+            "diario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-10-02-quizsemanalconstituciónd",
+          "fecha": "2026-10-02",
+          "dia": "Viernes",
+          "titulo": "Quiz semanal: Constitución + Derecho Administrativo",
+          "detalle": null,
+          "herramientas": [
+            "quiz"
+          ],
+          "claseEnVivo": false,
+          "tipo": "quiz"
+        },
+        {
+          "id": "2026-10-03-juegoquiénquiereserprocu",
+          "fecha": "2026-10-03",
+          "dia": "Sábado",
+          "titulo": "Juego: ¿Quién quiere ser Procurador/a? — cierre de Fase 2",
+          "detalle": null,
+          "herramientas": [
+            "juego"
+          ],
+          "claseEnVivo": false,
+          "tipo": "juego"
+        }
+      ]
+    },
+    {
+      "id": "fase-3",
+      "numero": 3,
+      "nombre": "El bloque que el simulacro no vio",
+      "inicio": "2026-10-05",
+      "fin": "2026-10-18",
+      "resumen": "Disciplinario, Procesal, DD.HH. y Responsabilidad del Estado — casi sin datos previos, dos semanas dedicadas.",
+      "eventos": [
+        {
+          "id": "2026-10-05-derechodisciplinariofunc",
+          "fecha": "2026-10-05",
+          "dia": "Lunes",
+          "titulo": "Derecho Disciplinario: función pública y ética + estatuto anticorrupción",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-06-derechodisciplinariodisc",
+          "fecha": "2026-10-06",
+          "dia": "Martes",
+          "titulo": "Derecho Disciplinario: disciplinario de la contratación estatal + fundamentos",
+          "detalle": null,
+          "herramientas": [
+            "ficha"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-07-derechodisciplinariogene",
+          "fecha": "2026-10-07",
+          "dia": "Miércoles",
+          "titulo": "Derecho Disciplinario general — fichas norma-artículo del Código General Disciplinario",
+          "detalle": null,
+          "herramientas": [
+            "ficha",
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-08-repasoespaciadodetarjeta",
+          "fecha": "2026-10-08",
+          "dia": "Jueves",
+          "titulo": "Repaso espaciado de tarjetas + diario de errores",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas",
+            "diario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-10-09-quizsemanalbloquediscipl",
+          "fecha": "2026-10-09",
+          "dia": "Viernes",
+          "titulo": "Quiz semanal: bloque Disciplinario completo",
+          "detalle": null,
+          "herramientas": [
+            "quiz"
+          ],
+          "claseEnVivo": false,
+          "tipo": "quiz"
+        },
+        {
+          "id": "2026-10-12-derechoprocesaliyii",
+          "fecha": "2026-10-12",
+          "dia": "Lunes",
+          "titulo": "Derecho Procesal I y II",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-13-derechoprocesaltarjetasy",
+          "fecha": "2026-10-13",
+          "dia": "Martes",
+          "titulo": "Derecho Procesal: tarjetas y fichas",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas",
+            "ficha"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-14-derechoshumanosddhhaplic",
+          "fecha": "2026-10-14",
+          "dia": "Miércoles",
+          "titulo": "Derechos Humanos (DD.HH.) aplicados a la función pública",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-15-responsabilidadextracont",
+          "fecha": "2026-10-15",
+          "dia": "Jueves",
+          "titulo": "Responsabilidad extracontractual del Estado y de los Agentes Estatales",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-16-repasogeneraldelbloquenu",
+          "fecha": "2026-10-16",
+          "dia": "Viernes",
+          "titulo": "Repaso general del bloque nuevo (Disciplinario + Procesal + DD.HH. + Resp. Extracontractual + estructura PGN)",
+          "detalle": null,
+          "herramientas": [
+            "diario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-10-17-puntodecontrolminisimula",
+          "fecha": "2026-10-17",
+          "dia": "Sábado",
+          "titulo": "Punto de control: mini-simulacro del bloque nuevo — meta ≥60% (sin línea base previa)",
+          "detalle": null,
+          "herramientas": [
+            "simulacro"
+          ],
+          "claseEnVivo": false,
+          "tipo": "simulacro"
+        }
+      ]
+    },
+    {
+      "id": "fase-4",
+      "numero": 4,
+      "nombre": "Áreas críticas de bajo dominio",
+      "inicio": "2026-10-19",
+      "fin": "2026-11-01",
+      "resumen": "MIPG, DIAN, Comercio Exterior, Ofimática y Razonamiento — el mayor retorno por hora estudiada.",
+      "eventos": [
+        {
+          "id": "2026-10-19-mipggestiónintegralplane",
+          "fecha": "2026-10-19",
+          "dia": "Lunes",
+          "titulo": "MIPG / Gestión Integral: planeación, indicadores, mejora continua",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-20-finanzaspúblicaseindicad",
+          "fecha": "2026-10-20",
+          "dia": "Martes",
+          "titulo": "Finanzas Públicas e Indicadores de gestión (del curso)",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-21-diandelegacióncobrocoact",
+          "fecha": "2026-10-21",
+          "dia": "Miércoles",
+          "titulo": "DIAN: delegación, cobro coactivo, recursos tributarios",
+          "detalle": null,
+          "herramientas": [
+            "glosario",
+            "ficha"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-22-repasoespaciadodetarjeta",
+          "fecha": "2026-10-22",
+          "dia": "Jueves",
+          "titulo": "Repaso espaciado de tarjetas + diario de errores",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas",
+            "diario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-10-23-quizsemanalmipgdian",
+          "fecha": "2026-10-23",
+          "dia": "Viernes",
+          "titulo": "Quiz semanal: MIPG + DIAN",
+          "detalle": null,
+          "herramientas": [
+            "quiz"
+          ],
+          "claseEnVivo": false,
+          "tipo": "quiz"
+        },
+        {
+          "id": "2026-10-26-comercioexteriorincoterm",
+          "fecha": "2026-10-26",
+          "dia": "Lunes",
+          "titulo": "Comercio Exterior / Incoterms — tu área en 0%, aprovecha para partir de cero bien",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-27-ofimáticarepasodecomando",
+          "fecha": "2026-10-27",
+          "dia": "Martes",
+          "titulo": "Ofimática — repaso de comandos clave de Word/Excel/Outlook",
+          "detalle": null,
+          "herramientas": [
+            "ficha"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-28-razonamientomatemáticoes",
+          "fecha": "2026-10-28",
+          "dia": "Miércoles",
+          "titulo": "Razonamiento Matemático / Estadística — lectura e interpretación de datos",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-29-razonamientológicoanalít",
+          "fecha": "2026-10-29",
+          "dia": "Jueves",
+          "titulo": "Razonamiento Lógico/Analítico — pensamiento sistémico, abstracto y conceptual",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-10-30-quizsemanalcomercioexter",
+          "fecha": "2026-10-30",
+          "dia": "Viernes",
+          "titulo": "Quiz semanal: Comercio Exterior, Ofimática, Razonamiento",
+          "detalle": null,
+          "herramientas": [
+            "quiz"
+          ],
+          "claseEnVivo": false,
+          "tipo": "quiz"
+        },
+        {
+          "id": "2026-10-31-simulacroparcialfases234",
+          "fecha": "2026-10-31",
+          "dia": "Sábado",
+          "titulo": "Simulacro parcial: Fases 2+3+4 combinadas (~85 preguntas) — meta ≥65%",
+          "detalle": null,
+          "herramientas": [
+            "simulacro"
+          ],
+          "claseEnVivo": false,
+          "tipo": "simulacro"
+        }
+      ]
+    },
+    {
+      "id": "fase-5",
+      "numero": 5,
+      "nombre": "Áreas complementarias y reglas del concurso",
+      "inicio": "2026-11-02",
+      "fin": "2026-11-08",
+      "resumen": "Temas de desempeño medio que solo necesitan reforzarse, más las reglas del concurso mismo.",
+      "eventos": [
+        {
+          "id": "2026-11-02-contrataciónestatalyrégi",
+          "fecha": "2026-11-02",
+          "dia": "Lunes",
+          "titulo": "Contratación Estatal y Régimen de Inhabilidades (lo general)",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-11-03-derechodepetición",
+          "fecha": "2026-11-03",
+          "dia": "Martes",
+          "titulo": "Derecho de Petición",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-11-04-transparenciayaccesoainf",
+          "fecha": "2026-11-04",
+          "dia": "Miércoles",
+          "titulo": "Transparencia y Acceso a Información",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-11-05-gestióndocumentalgestión",
+          "fecha": "2026-11-05",
+          "dia": "Jueves",
+          "titulo": "Gestión Documental + Gestión de Bienes",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-11-06-redacciónyortografíaconv",
+          "fecha": "2026-11-06",
+          "dia": "Viernes",
+          "titulo": "Redacción y Ortografía + Convocatoria y Régimen de Carrera de la PGN",
+          "detalle": null,
+          "herramientas": [
+            "glosario",
+            "ficha"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-11-07-quizintegradordelasemana",
+          "fecha": "2026-11-07",
+          "dia": "Sábado",
+          "titulo": "Quiz integrador de la semana",
+          "detalle": null,
+          "herramientas": [
+            "quiz"
+          ],
+          "claseEnVivo": false,
+          "tipo": "quiz"
+        }
+      ]
+    },
+    {
+      "id": "fase-6",
+      "numero": 6,
+      "nombre": "Competencias Comportamentales + Simulacro completo 1",
+      "inicio": "2026-11-09",
+      "fin": "2026-11-15",
+      "resumen": "Afinar el criterio del bloque más grande del examen y hacer el primer simulacro completo.",
+      "eventos": [
+        {
+          "id": "2026-11-09-competenciascomportament",
+          "fecha": "2026-11-09",
+          "dia": "Lunes",
+          "titulo": "Competencias Comportamentales: escalas tipo Likert y criterio institucional",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-11-10-competenciascomportament",
+          "fecha": "2026-11-10",
+          "dia": "Martes",
+          "titulo": "Competencias Comportamentales: preguntas situacionales (trabajo en equipo, decisiones, liderazgo)",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-11-11-servicioalciudadanorefue",
+          "fecha": "2026-11-11",
+          "dia": "Miércoles",
+          "titulo": "Servicio al Ciudadano — refuerzo, conecta con orientación al usuario",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "estudio"
+        },
+        {
+          "id": "2026-11-12-repasoespaciadodetarjeta",
+          "fecha": "2026-11-12",
+          "dia": "Jueves",
+          "titulo": "Repaso espaciado de tarjetas + diario de errores",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas",
+            "diario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-11-13-repasogeneralantesdelpri",
+          "fecha": "2026-11-13",
+          "dia": "Viernes",
+          "titulo": "Repaso general antes del primer simulacro completo",
+          "detalle": null,
+          "herramientas": [
+            "diario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-11-14-simulacrocompleto1183120",
+          "fecha": "2026-11-14",
+          "dia": "Sábado",
+          "titulo": "Simulacro completo 1: 183 (+120 si ya integradas) preguntas — meta ≥65%",
+          "detalle": null,
+          "herramientas": [
+            "simulacro"
+          ],
+          "claseEnVivo": false,
+          "tipo": "simulacro"
+        }
+      ]
+    },
+    {
+      "id": "fase-7",
+      "numero": 7,
+      "nombre": "Repaso general dirigido por datos",
+      "inicio": "2026-11-16",
+      "fin": "2026-11-22",
+      "resumen": "Repasar exactamente lo que los datos dicen que sigue débil, y el segundo simulacro completo.",
+      "eventos": [
+        {
+          "id": "2026-11-16-repasodirigidopordatoslo",
+          "fecha": "2026-11-16",
+          "dia": "Lunes",
+          "titulo": "Repaso dirigido por datos: lo más débil según el diario de errores y el simulacro 1",
+          "detalle": null,
+          "herramientas": [
+            "diario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-11-17-repasodirigidopordatosdí",
+          "fecha": "2026-11-17",
+          "dia": "Martes",
+          "titulo": "Repaso dirigido por datos (día 2)",
+          "detalle": null,
+          "herramientas": [
+            "diario",
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-11-18-repasodirigidopordatosdí",
+          "fecha": "2026-11-18",
+          "dia": "Miércoles",
+          "titulo": "Repaso dirigido por datos (día 3)",
+          "detalle": null,
+          "herramientas": [
+            "diario",
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-11-19-juegoquiénquiereserprocu",
+          "fecha": "2026-11-19",
+          "dia": "Jueves",
+          "titulo": "Juego: ¿Quién quiere ser Procurador/a? — ronda final con todas las fases",
+          "detalle": null,
+          "herramientas": [
+            "juego"
+          ],
+          "claseEnVivo": false,
+          "tipo": "juego"
+        },
+        {
+          "id": "2026-11-20-repasoligeroantesdelsegu",
+          "fecha": "2026-11-20",
+          "dia": "Viernes",
+          "titulo": "Repaso ligero antes del segundo simulacro completo",
+          "detalle": null,
+          "herramientas": [
+            "glosario",
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-11-21-simulacrocompleto2183pre",
+          "fecha": "2026-11-21",
+          "dia": "Sábado",
+          "titulo": "Simulacro completo 2: 183+ preguntas — meta ≥75%",
+          "detalle": null,
+          "herramientas": [
+            "simulacro"
+          ],
+          "claseEnVivo": false,
+          "tipo": "simulacro"
+        }
+      ]
+    },
+    {
+      "id": "fase-8",
+      "numero": 8,
+      "nombre": "Recta final",
+      "inicio": "2026-11-23",
+      "fin": "2026-11-29",
+      "resumen": "Repaso ligero, calentamiento y descanso antes del examen.",
+      "eventos": [
+        {
+          "id": "2026-11-23-repasoligerodetarjetasde",
+          "fecha": "2026-11-23",
+          "dia": "Lunes",
+          "titulo": "Repaso ligero de tarjetas de alto riesgo",
+          "detalle": null,
+          "herramientas": [
+            "tarjetas"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-11-24-repasoligerodelglosarioc",
+          "fecha": "2026-11-24",
+          "dia": "Martes",
+          "titulo": "Repaso ligero del glosario completo",
+          "detalle": null,
+          "herramientas": [
+            "glosario"
+          ],
+          "claseEnVivo": false,
+          "tipo": "repaso"
+        },
+        {
+          "id": "2026-11-25-simulacrocortodecalentam",
+          "fecha": "2026-11-25",
+          "dia": "Miércoles",
+          "titulo": "Simulacro corto de calentamiento (40-50 preguntas), sin agotarte",
+          "detalle": null,
+          "herramientas": [
+            "simulacro"
+          ],
+          "claseEnVivo": false,
+          "tipo": "simulacro"
+        },
+        {
+          "id": "2026-11-26-sincontenidonuevorevisar",
+          "fecha": "2026-11-26",
+          "dia": "Jueves",
+          "titulo": "Sin contenido nuevo. Revisar logística del examen (citación, documentos, ruta/hora)",
+          "detalle": null,
+          "herramientas": [],
+          "claseEnVivo": false,
+          "tipo": "descanso"
+        },
+        {
+          "id": "2026-11-27-descansoactivo",
+          "fecha": "2026-11-27",
+          "dia": "Viernes",
+          "titulo": "Descanso activo",
+          "detalle": null,
+          "herramientas": [],
+          "claseEnVivo": false,
+          "tipo": "descanso"
+        },
+        {
+          "id": "2026-11-28-descansoactivo",
+          "fecha": "2026-11-28",
+          "dia": "Sábado",
+          "titulo": "Descanso activo",
+          "detalle": null,
+          "herramientas": [],
+          "claseEnVivo": false,
+          "tipo": "descanso"
+        },
+        {
+          "id": "2026-11-29-dormirbienconfiarenelpro",
+          "fecha": "2026-11-29",
+          "dia": "Domingo",
+          "titulo": "Dormir bien. Confiar en el proceso.",
+          "detalle": null,
+          "herramientas": [],
+          "claseEnVivo": false,
+          "tipo": "descanso"
+        }
+      ]
+    }
+  ]
+}
